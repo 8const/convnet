@@ -9,3 +9,7 @@ Also I'll have a much better intuition.
 
 CODE FIRST THEN DO MATH
 DO NOT WASTE YOUR TIME
+
+NOTE: 
+FIGURE OUT WTF IS FULL CONVOLUTION
+seems to be what you're looking for.
