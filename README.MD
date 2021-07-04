@@ -9,7 +9,4 @@ Also I'll have a much better intuition.
 
 CODE FIRST THEN DO MATH
 DO NOT WASTE YOUR TIME
-
-NOTE: 
-FIGURE OUT WTF IS FULL CONVOLUTION
-seems to be what you're looking for.
+Most parts of this code aren't supposed to be read by other people or modified. It's quite terrible. I only want it to work. 
